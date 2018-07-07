@@ -25,7 +25,7 @@ SECRET_KEY = '*f(=4$$sesucw-sq^r3h+(^tt*#ap(%3c)=(xh$mkbyncm7o+x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lauranqn.pythonanywhere.com']
 
 
 # Application definition
